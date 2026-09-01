@@ -29,11 +29,17 @@
   // space out content section headings (h1 has margin-top: 0 globally)
   h1:not(.page__title) {
     margin-top: 2.5em;
+    font-size: $type-size-4;
   }
 
   h1:first-child {
     margin-top: 0;
   }
+}
+
+/* match section heading size on single-layout pages (e.g. homepage) */
+.page__content h1 {
+  font-size: $type-size-4;
 }
 
 .archive__subtitle {
