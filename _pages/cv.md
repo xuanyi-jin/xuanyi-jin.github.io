@@ -3,11 +3,13 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+show_title: false
 ---
 
 {% include base_path %}
 
-<!-- Content coming soon.
-     To offer a downloadable PDF, put the file at files/cv.pdf and uncomment:
-[Download CV (PDF)]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
--->
+[Download CV (PDF)]({{ base_path }}/files/CV_JinXuanyi_202609.pdf){: .btn .btn--primary}
+
+<iframe src="{{ base_path }}/files/CV_JinXuanyi_202609.pdf" style="width: 100%; height: 90vh; border: 1px solid var(--global-border-color); margin-top: 1em;" title="CV of Xuanyi Jin">
+  This browser does not support embedded PDFs. Please <a href="{{ base_path }}/files/CV_JinXuanyi_202609.pdf">download the CV</a> instead.
+</iframe>

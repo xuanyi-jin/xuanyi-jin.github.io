@@ -13,7 +13,7 @@ I will be on the 2026-2027 job market.
 
 Research Interests
 ======
-General interest: Empirical Industrial Organization, International Trade, Chinese Economy  
+General interest: Empirical Industrial Organization, International Trade  
 Special focus: Demand, Firm Dynamics, Intellectual Property Rights, Industrial & Trade Policy
 
 Contact
