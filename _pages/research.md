@@ -8,7 +8,7 @@ show_title: false
 
 {% include base_path %}
 
-Working Papers
+Job Market Paper
 ======
 
 **Marketing, Demand Accumulation, and Exporter Dynamics**  
@@ -24,7 +24,8 @@ with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https:
 <p>2026: Asia Pacific Trade Seminars, CES China Annual Conference, Hong Kong Economic Association Biennial Conference, CUHK Summer School of Asia in the Global Economy, HKU and CITP Conference on Trade Policy and Inclusive Growth*, International Symposium on Geopolitical Risks and Trade*; 2025: Renmin University of China*, Binghamton University*, Central University of Finance and Economics*, SUFE Empirical IO Conference 2025*, HKU Brownbag*; 2024: CUHK-PKU Workshop on Innovation and Entrepreneurship*, Glasgow-Nankai International Workshop on Trade, Productivity and Development*, Journal of International Economics Summer School 2024. (*by coauthor)</p>
 </details>
 
----
+Other Working Papers
+======
 
 **Protection versus Differentiation: Trademarks, Marketing, and Firm Performance**  
 with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
