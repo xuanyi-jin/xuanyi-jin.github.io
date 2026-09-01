@@ -11,6 +11,11 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  /* keep short pages tall enough that the footer clears the fixed sidebar */
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    min-height: calc(100vh - #{$masthead-height});
+  }
+
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
