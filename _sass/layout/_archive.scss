@@ -25,6 +25,15 @@
       }
     }
   }
+
+  // space out content section headings (h1 has margin-top: 0 globally)
+  h1:not(.page__title) {
+    margin-top: 1.75em;
+  }
+
+  h1:first-child {
+    margin-top: 0;
+  }
 }
 
 .archive__subtitle {

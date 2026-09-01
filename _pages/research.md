@@ -11,22 +11,6 @@ show_title: false
 Job Market Paper
 ======
 
-**Marketing, Demand Accumulation, and Exporter Dynamics**  
-with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https://hongsongzhang.weebly.com/)
-
-<details>
-<summary><em>Abstract</em></summary>
-<p>Selling in a foreign market is hard: a firm must build a customer base from scratch, earn a reputation, and learn unfamiliar demand. Consistent with this, new exporters typically enter small and expand only gradually. This pattern is hard to reconcile with models whose only friction is a fixed entry cost. We argue that firms face substantial demand barriers abroad. We study how they overcome demand barriers by investing in marketing. Using firm-market-specific price and quantity data from the Chinese textile industry, we separate a firm's demand advantage from its physical productivity and measure directly how marketing shapes demand. Reduced-form facts suggest that firms ramp up marketing sharply upon entry, and marketing raises sales in both markets through higher quantities rather than prices. We then estimate a dynamic model of export and marketing decisions with demand accumulation. Demand heterogeneity, rather than productivity, accounts for most sales variation (about 81% of export-sales variation versus 10% for productivity), and marketing raises demand in both markets while leaving markups largely unchanged. A counterfactual that sets new exporters' initial export demand to its steady-state level shows the demand barrier is first-order: removing it would raise their first-year export sales by about 72%, with the gap still around 37% by their sixth year. Marketing plays a central role in overcoming the demand barrier: shutting down the marketing channel roughly doubles the exit rate of young exporters and reduces survivors' export sales by 10 to 21% over their first six years.</p>
-</details>
-
-<details>
-<summary><em>Presentations</em></summary>
-<p>2026: Asia Pacific Trade Seminars, CES China Annual Conference, Hong Kong Economic Association Biennial Conference, CUHK Summer School of Asia in the Global Economy, HKU and CITP Conference on Trade Policy and Inclusive Growth*, International Symposium on Geopolitical Risks and Trade*; 2025: Renmin University of China*, Binghamton University*, Central University of Finance and Economics*, SUFE Empirical IO Conference 2025*, HKU Brownbag*; 2024: CUHK-PKU Workshop on Innovation and Entrepreneurship*, Glasgow-Nankai International Workshop on Trade, Productivity and Development*, Journal of International Economics Summer School 2024. (*by coauthor)</p>
-</details>
-
-Other Working Papers
-======
-
 **Protection versus Differentiation: Trademarks, Marketing, and Firm Performance**  
 with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
 
@@ -38,6 +22,22 @@ with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
 <details>
 <summary><em>Presentations</em></summary>
 <p>2025: HKU Brownbag.</p>
+</details>
+
+Working Papers
+======
+
+**Marketing, Demand Accumulation, and Exporter Dynamics**  
+with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https://hongsongzhang.weebly.com/)
+
+<details>
+<summary><em>Abstract</em></summary>
+<p>Selling in a foreign market is hard: a firm must build a customer base from scratch, earn a reputation, and learn unfamiliar demand. Consistent with this, new exporters typically enter small and expand only gradually. This pattern is hard to reconcile with models whose only friction is a fixed entry cost. We argue that firms face substantial demand barriers abroad. We study how they overcome demand barriers by investing in marketing. Using firm-market-specific price and quantity data from the Chinese textile industry, we separate a firm's demand advantage from its physical productivity and measure directly how marketing shapes demand. Reduced-form facts suggest that firms ramp up marketing sharply upon entry, and marketing raises sales in both markets through higher quantities rather than prices. We then estimate a dynamic model of export and marketing decisions with demand accumulation. Demand heterogeneity, rather than productivity, accounts for most sales variation (about 81% of export-sales variation versus 10% for productivity), and marketing raises demand in both markets while leaving markups largely unchanged. A counterfactual that sets new exporters' initial export demand to its steady-state level shows the demand barrier is first-order: removing it would raise their first-year export sales by about 72%, with the gap still around 37% by their sixth year. Marketing plays a central role in overcoming the demand barrier: shutting down the marketing channel roughly doubles the exit rate of young exporters and reduces survivors' export sales by 10 to 21% over their first six years.</p>
+</details>
+
+<details>
+<summary><em>Presentations</em></summary>
+<p>2026: Asia Pacific Trade Seminars, CES China Annual Conference, Hong Kong Economic Association Biennial Conference, CUHK Summer School of Asia in the Global Economy, HKU and CITP Conference on Trade Policy and Inclusive Growth*, International Symposium on Geopolitical Risks and Trade*; 2025: Renmin University of China*, Binghamton University*, Central University of Finance and Economics*, SUFE Empirical IO Conference 2025*, HKU Brownbag*; 2024: CUHK-PKU Workshop on Innovation and Entrepreneurship*, Glasgow-Nankai International Workshop on Trade, Productivity and Development*, Journal of International Economics Summer School 2024. (*by coauthor)</p>
 </details>
 
 ---
