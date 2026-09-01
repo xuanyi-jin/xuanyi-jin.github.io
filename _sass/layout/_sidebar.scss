@@ -146,7 +146,7 @@
   width: 36px;
   height: 36px;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 4px;
   position: relative;
 
   @include breakpoint($large) {
@@ -155,7 +155,7 @@
     max-width: 200px;
     height: auto;
     aspect-ratio: 4 / 5;
-    border-radius: 12px;
+    border-radius: 4px;
     overflow: hidden;
     margin: 0 0 20px;
     box-shadow: 0 0 0 1px var(--global-border-color);
