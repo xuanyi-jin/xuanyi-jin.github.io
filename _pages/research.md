@@ -57,4 +57,4 @@ Work in Progress
 ======
 
 **Superstar Firms in the Production Networks**  
-with [Hongsong Zhang](https://hongsongzhang.weebly.com/) and [Ming Li](https://sites.google.com/view/mingli1)
+with [Ming Li](https://sites.google.com/view/mingli1) and [Hongsong Zhang](https://hongsongzhang.weebly.com/)
