@@ -55,3 +55,6 @@ with [Sujata Visaria](https://www.bayes.city.ac.uk/faculties-and-research/expert
 
 Work in Progress
 ======
+
+**Superstar Firms in the Production Networks**  
+with [Hongsong Zhang](https://hongsongzhang.weebly.com/) and [Ming Li](https://sites.google.com/view/mingli1)
