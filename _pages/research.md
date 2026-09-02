@@ -62,5 +62,5 @@ with [Ming Li](https://sites.google.com/view/mingli1) and [Hongsong Zhang](https
 **Marketing and the Sequential Expansion of Exporters**  
 with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
 
-**R&D Subsidy and the Endogenous Openness of Innovation**  
+**R&D Subsidy and Innovators' Career**  
 with [Gustavo de Souza](https://gustavodesouza.net), [Haishi "Harry" Li](https://sites.google.com/view/haishi-harry-li), and [Ziho Park](https://sites.google.com/view/zihopark)
