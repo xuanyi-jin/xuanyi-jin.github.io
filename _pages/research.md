@@ -58,3 +58,6 @@ Work in Progress
 
 **Superstar Firms in Production Networks**  
 with [Ming Li](https://sites.google.com/view/mingli1) and [Hongsong Zhang](https://hongsongzhang.weebly.com/)
+
+**Marketing and the Sequential Expansion of Exporters**  
+with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
