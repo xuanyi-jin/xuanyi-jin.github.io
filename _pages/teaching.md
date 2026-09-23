@@ -12,4 +12,4 @@ show_title: false
 ECON6806 Topics in Empirical Industrial Organization, Ph.D. level
 
 **Teaching Assistant, HKU** — *Spring 2023*  
-ECON6057 China in the Global Economy, Master level
+ECON6057 China in the Global Economy, Master's level
