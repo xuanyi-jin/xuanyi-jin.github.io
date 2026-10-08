@@ -16,7 +16,7 @@ with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
 
 <details>
 <summary><em>Abstract</em></summary>
-<p>Coming soon.</p>
+<p>This paper examines the rationale for trademark adoption and its impact on firm performance. We emphasize two functions of trademarks: protection and differentiation. Protection prevents competitors from using identical or confusingly similar brand names and logos. Differentiation makes it easier for consumers to tell the owner's brand apart from others. An industry equilibrium model with endogenous marketing and trademark adoption rationalizes three facts we document in the data. First, most firms never apply for a trademark, although the cost is negligible. Second, a firm's marketing generates positive spillovers to competitors' sales, and these spillovers arise only from firms without a trademark. Third, following a firm's first trademark application, the return to its own marketing rises while the spillover it receives from competitors' marketing disappears. We estimate the model using Chinese firm-level data from 1998 to 2007. Counterfactual exercises show that stronger trademark protection, greater market transparency, and trademark subsidies have heterogeneous effects across firms. Although these policies stimulate trademark adoption, they benefit only the largest firms. Smaller firms earn lower profits even after adopting trademarks, because higher adoption intensifies marketing competition and reduces the marketing spillovers they rely on.</p>
 </details>
 
 <details>
