@@ -405,3 +405,21 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Research overview (top of research page): tighter spacing
+   ========================================================================== */
+
+.page__content .research-overview {
+  p {
+    margin-bottom: 0.65em;
+  }
+
+  ol, ul {
+    margin: 0.5em 0;
+  }
+
+  li {
+    margin-bottom: 0.25em;
+  }
+}

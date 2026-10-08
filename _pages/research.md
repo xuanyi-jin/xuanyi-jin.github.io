@@ -8,6 +8,8 @@ show_title: false
 
 {% include base_path %}
 
+<div class="research-overview" markdown="1">
+
 My research interests lie in empirical industrial organization, international trade, and applied microeconomics.
 
 My current research centers on two broad questions:
@@ -16,6 +18,8 @@ My current research centers on two broad questions:
 2. How firms build and protect their customer base and knowledge capital through trademarks, patents, and scientific research, and the implications for competition and market outcomes.
 
 To answer these questions, I use large-scale firm-level datasets to document micro evidence and use structural IO methods to model firm decisions and evaluate how trade and industrial policies affect these decisions and shape market dynamics.
+
+</div>
 
 Job Market Paper
 ======
