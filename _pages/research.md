@@ -54,7 +54,8 @@ with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https:
 </details>
 
 **How Does On-Campus Housing Shape Students' Outcomes?** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5460411)  
-with [Sujata Visaria](https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria#tab-academic-details-header-0), [Chen (Cassie) Xiang](https://cassiexiang.github.io/), and Xiaofan Zhu
+with [Sujata Visaria](https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria#tab-academic-details-header-0), [Chen (Cassie) Xiang](https://cassiexiang.github.io/), and Xiaofan Zhu  
+Revise and Resubmit at *Economics of Education Review*
 
 <details>
 <summary><em>Abstract</em></summary>
