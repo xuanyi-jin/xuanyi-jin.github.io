@@ -431,5 +431,7 @@
 
 .paper-status {
   display: inline-block;
-  margin-top: 0.45em;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-top: 0.5em; /* 0.5 * 0.9em = 0.45em of the parent font size */
 }
