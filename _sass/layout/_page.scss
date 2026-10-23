@@ -423,3 +423,13 @@
     margin-bottom: 0;
   }
 }
+
+/*
+   Paper status line (e.g. R&R) under the coauthor line: 1.3x the normal
+   line spacing (body line-height 1.5em -> 1.95em, i.e. +0.45em)
+   ========================================================================== */
+
+.paper-status {
+  display: inline-block;
+  margin-top: 0.45em;
+}
