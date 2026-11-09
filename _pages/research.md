@@ -24,8 +24,8 @@ To answer these questions, I use large-scale firm-level datasets to document mic
 Job Market Paper
 ======
 
-**Protection versus Differentiation: Trademarks, Marketing, and Firm Performance** [[PDF]]({{ base_path }}/files/JMP_XuanyiJIN.pdf)  
-with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
+**Protection versus Differentiation: Trademarks, Marketing, and Firm Performance,** [[PDF]]({{ base_path }}/files/JMP_XuanyiJIN.pdf)  
+with [Hongsong Zhang](https://hongsongzhang.weebly.com/).
 
 <details>
 <summary><em>Abstract</em></summary>
@@ -40,8 +40,8 @@ with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
 Working Papers
 ======
 
-**Marketing, Demand Accumulation, and Exporter Dynamics** (Draft available upon request)  
-with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https://hongsongzhang.weebly.com/)
+**Marketing, Demand Accumulation, and Exporter Dynamics,** (Draft available upon request)  
+with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https://hongsongzhang.weebly.com/).
 
 <details>
 <summary><em>Abstract</em></summary>
@@ -54,7 +54,7 @@ with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https:
 </details>
 
 **How Does On-Campus Housing Shape Students' Outcomes?** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5460411)  
-with [Sujata Visaria](https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria#tab-academic-details-header-0), [Chen Xiang](https://cassiexiang.github.io/), and Xiaofan Zhu  
+with [Sujata Visaria](https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria#tab-academic-details-header-0), [Chen Xiang](https://cassiexiang.github.io/), and Xiaofan Zhu.  
 <span class="paper-status">Revise and Resubmit at <em>Economics of Education Review</em></span>
 
 <details>
@@ -70,11 +70,11 @@ with [Sujata Visaria](https://www.bayes.city.ac.uk/faculties-and-research/expert
 Work in Progress
 ======
 
-**Superstar Firms in Production Networks**  
-with [Ming Li](https://sites.google.com/view/mingli1) and [Hongsong Zhang](https://hongsongzhang.weebly.com/)
+**Superstar Firms in Production Networks,**  
+with [Ming Li](https://sites.google.com/view/mingli1) and [Hongsong Zhang](https://hongsongzhang.weebly.com/).
 
-**R&D Subsidies, Inventors' Careers, and Knowledge Spillovers**  
-with [Gustavo de Souza](https://gustavodesouza.net), [Haishi "Harry" Li](https://sites.google.com/view/haishi-harry-li), and [Ziho Park](https://sites.google.com/view/zihopark)
+**R&D Subsidies, Inventors' Careers, and Knowledge Spillovers,**  
+with [Gustavo de Souza](https://gustavodesouza.net), [Haishi "Harry" Li](https://sites.google.com/view/haishi-harry-li), and [Ziho Park](https://sites.google.com/view/zihopark).
 
-**Marketing and the Sequential Expansion of Exporters**  
-with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https://hongsongzhang.weebly.com/)
+**Marketing and the Sequential Expansion of Exporters,**  
+with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https://hongsongzhang.weebly.com/).
