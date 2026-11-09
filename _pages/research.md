@@ -24,7 +24,7 @@ To answer these questions, I use large-scale firm-level datasets to document mic
 Job Market Paper
 ======
 
-**Protection versus Differentiation: Trademarks, Marketing, and Firm Performance**  
+**Protection versus Differentiation: Trademarks, Marketing, and Firm Performance** [[PDF]]({{ base_path }}/files/JMP_XuanyiJIN.pdf)  
 with [Hongsong Zhang](https://hongsongzhang.weebly.com/)
 
 <details>
