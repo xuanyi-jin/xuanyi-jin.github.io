@@ -11,7 +11,9 @@ Welcome! I am a Ph.D. candidate in Economics at the University of Hong Kong.
 
 I received my master's degree from the Hong Kong University of Science and Technology and my bachelor's degree from Xiamen University. I was a visiting scholar at the Pennsylvania State University in 2025.
 
-I will be on the 2026&ndash;2027 job market.
+I am on the 2026&ndash;2027 job market.
+
+You can find my CV here ([English](/files/CV_XuanyiJIN_web.pdf) / [Chinese](/files/CV_XuanyiJIN_CN_web.pdf)).
 
 Research Interests
 ======
