@@ -258,3 +258,11 @@
     }
   }
 }
+
+/* full-width content when the page has no author sidebar */
+.archive--full {
+  @include breakpoint($large) {
+    @include span(12 of 12);
+    @include prefix(0 of 12);
+  }
+}
