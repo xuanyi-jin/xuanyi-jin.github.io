@@ -34,7 +34,7 @@ with [Hongsong Zhang](https://hongsongzhang.weebly.com/).
 
 <details>
 <summary><em>Presentations</em></summary>
-<p>2026: China International Conference in Economics Academic Presentation Session (scheduled), Asia-Pacific Industrial Organization Conference (scheduled), China Trade Research Group Conference (scheduled), Symposium on World Economy and International Trade (Xiamen University, keynote)*; 2025: HKU PhD Workshop. (*by coauthor)</p>
+<p>2026: China International Conference in Economics Academic Presentation Session (scheduled), Asia-Pacific Industrial Organization Conference (scheduled), China Trade Research Group Conference (scheduled), Symposium on World Economy and International Trade (Xiamen University, keynote)*, HKU PhD Workshop. (*by coauthor)</p>
 </details>
 
 Working Papers
