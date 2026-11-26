@@ -64,7 +64,7 @@ with [Sujata Visaria](https://www.bayes.city.ac.uk/faculties-and-research/expert
 
 <details>
 <summary><em>Presentations</em></summary>
-<p>2025: Asian Economic Development Conference*; 2024: HKUST Brownbag*, HKU Applied Micro Workshop. (*by coauthor)</p>
+<p>2025: Asian Economic Development Conference*, HKU Applied Micro Workshop; 2024: HKUST Brownbag*. (*by coauthor)</p>
 </details>
 
 Work in Progress
