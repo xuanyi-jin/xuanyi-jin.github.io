@@ -266,3 +266,26 @@
     @include prefix(0 of 12);
   }
 }
+
+/* compact dated list for upcoming presentations on the homepage */
+table.upcoming {
+  width: auto;
+  margin: 0.5em 0 1.5em;
+  border-collapse: collapse;
+  border: none;
+  font-size: inherit;
+  font-family: inherit;
+
+  td {
+    padding: 0.15em 0;
+    border: none;
+    vertical-align: top;
+  }
+
+  td:first-child {
+    width: 7.5em;
+    padding-right: 1em;
+    white-space: nowrap;
+    color: var(--global-text-color-light);
+  }
+}
