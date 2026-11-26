@@ -286,6 +286,7 @@ table.upcoming {
     width: 7.5em;
     padding-right: 1em;
     white-space: nowrap;
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
+    opacity: 0.75;
   }
 }
