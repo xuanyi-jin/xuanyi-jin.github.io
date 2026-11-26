@@ -14,7 +14,7 @@ I received my master's degree from the Hong Kong University of Science and Techn
 Research Interests
 ======
 General interest: Empirical Industrial Organization, International Trade, Applied Microeconomics  
-Special focus: Demand Heterogeneity, Firm Dynamics, Intellectual Property Rights, Industrial & Trade Policy
+Special focus: Demand Heterogeneity, Firm Dynamics, Intellectual Property Rights
 
 I am on the 2026&ndash;2027 job market. You can find my CV here ([English](/files/CV_XuanyiJIN_web.pdf) / [Chinese](/files/CV_XuanyiJIN_CN_web.pdf)).
 
