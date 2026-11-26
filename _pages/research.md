@@ -53,7 +53,7 @@ with [Yating Jiang](https://yatingjiang.weebly.com/) and [Hongsong Zhang](https:
 <p>2027: ASSA Annual Meeting (scheduled); 2026: China Trade Research Group Conference (scheduled)*, Liaoning University*, Open Economy and World Economy Forum (Fudan University), Asia Pacific Trade Seminars, CES China Annual Conference, Hong Kong Economic Association Biennial Conference, The 8th Openness and Development Forum at Huazhong University of Science and Technology*, CUHK Summer School of Asia in the Global Economy, HKU and CITP Conference on Trade Policy and Inclusive Growth*, International Symposium on Geopolitical Risks and Trade*; 2025: 3rd HKU-UNSW Workshop on Firms and Industrial Dynamics*, Renmin University of China*, Binghamton University*, Central University of Finance and Economics*, SUFE Empirical IO Conference 2025*, HKU Brownbag*; 2024: CUHK-PKU Workshop on Innovation and Entrepreneurship*, Glasgow-Nankai International Workshop on Trade, Productivity and Development*, Journal of International Economics Summer School 2024. (*by coauthor)</p>
 </details>
 
-**How Does On-Campus Housing Shape Students' Outcomes?** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5460411)  
+**How Does On-Campus Housing Shape Students' Outcomes?** (corresponding author) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5460411)  
 with [Sujata Visaria](https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria#tab-academic-details-header-0), [Chen Xiang](https://cassiexiang.github.io/), and Xiaofan Zhu.  
 <span class="paper-status">Revise and Resubmit at <em>Economics of Education Review</em></span>
 
