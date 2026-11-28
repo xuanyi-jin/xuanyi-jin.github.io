@@ -22,9 +22,9 @@ Upcoming Presentations
 ======
 
 <table class="upcoming">
-  <tr><td>Dec 6, 2026</td><td>2026 China Trade Research Group (CTRG) Conference, Tsinghua University</td></tr>
+  <tr><td>Dec 6, 2026</td><td>China Trade Research Group (CTRG) Conference, Tsinghua University</td></tr>
   <tr><td>Dec 11, 2026</td><td>Asia-Pacific Industrial Organization Conference, Xiamen University</td></tr>
-  <tr><td>Dec 13, 2026</td><td>Academic Presentation Session, 2026 China International Conference in Economics (CICE), Peking University</td></tr>
+  <tr><td>Dec 13, 2026</td><td>Academic Presentation Session, China International Conference in Economics (CICE), Peking University</td></tr>
 </table>
 
 Contact
